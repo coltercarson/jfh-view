@@ -1,4 +1,4 @@
-# music-viewer
+# jfh-view
 
 A set of tools for displaying a local music library on a web interface.
 
